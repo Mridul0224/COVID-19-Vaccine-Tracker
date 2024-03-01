@@ -34,8 +34,4 @@ To explore the dashboard, please visit the [Global COVID-19 Vaccine Tracker Dash
 
 ## Contributions
 
-We welcome contributions from the community, including data updates, feature requests, and improvements to the dashboard's design and functionality. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+We welcome contributions from the community, including data updates, feature requests, and improvements to the dashboard's design and functionality.
