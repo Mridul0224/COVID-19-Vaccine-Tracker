@@ -10,7 +10,7 @@ The COVID-19 pandemic has been a defining global health crisis, affecting millio
 
 ## Task
 
-As the lead data analyst, my role involved the design and implementation of an interactive dashboard to track key metrics of the global vaccination effort. This dashboard was developed using Tableau, a leading tool for data visualization, to enable real-time exploration of vaccination data.
+My role involved the design and implementation of an interactive dashboard to track key metrics of the global vaccination effort. This dashboard was developed using Tableau, a leading tool for data visualization, to enable real-time exploration of vaccination data.
 
 ## Action
 
